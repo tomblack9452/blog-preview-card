@@ -1,2 +1,5 @@
-# blog-preview-card
-This is my version of the "Blog Preview Card" challenge by Frontend Mentor. I feel that I recreated this exactly and used very efficient and accurate HTML/CSS.
+# Blog Preview Card | Frontend Mentor
+
+https://blog-preview-card-seven-phi.vercel.app/
+
+<img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Screenshots/i2qgyyapymvn1kexfkqg.jpg">
